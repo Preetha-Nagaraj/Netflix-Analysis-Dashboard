@@ -93,6 +93,9 @@ TotalWatchTime_Hours = SUM('Netflix'[watch_time_minutes]) / 60
 ### 5. New Releases by Month & Year
 ### 6. Customer Retention Insights
 
+Link for Dashboard
+![Image](https://github.com/user-attachments/assets/72ed418b-bf6d-4562-b1aa-fde9efbc324c)
+
 
 # Conclusion
 
